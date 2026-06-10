@@ -91,4 +91,4 @@ MIT License - Free for personal and commercial use
 
 Simply open this single HTML file in any browser - no installation, no server, no dependencies required!
 
-for more projects and FYP'scontact professorshami435@gmail.com
+for more projects and FYP's contact professorshami435@gmail.com
