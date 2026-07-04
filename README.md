@@ -3,7 +3,7 @@ I've created a fully functional, attractive **AI-Based Grammar Checker** as a si
 
 ---
 ## GrammarAI - Features Overview
-
+ 
 ### Core Features
 | Feature | Description |
 |---------|-------------|
