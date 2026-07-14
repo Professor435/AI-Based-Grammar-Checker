@@ -1,7 +1,7 @@
  # AI-Based-Grammar-Checker
 I've created a fully functional, attractive **AI-Based Grammar Checker** as a single HTML file. Here's what's included:
 
----
+--- 
 ## GrammarAI - Features Overview
  
 ### Core Features
